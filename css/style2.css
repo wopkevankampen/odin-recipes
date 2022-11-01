@@ -1,0 +1,22 @@
+body{
+    background-color: darkolivegreen;
+    color: whitesmoke;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+h1{
+    color: greenyellow;
+}
+
+div{
+    background-color: greenyellow;
+    color: black;
+
+}
+
+span{
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
